@@ -47,6 +47,3 @@ conversão.
 -   Melhorar experiência do usuário
 
 ------------------------------------------------------------------------
-
-🚀 Projeto base para futuras melhorias como histórico de conversões e
-suporte a criptomoedas.
